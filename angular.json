@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spelling-bee"
+    }
+  },
+  "defaultProject": "spelling-bee",
+  "cli": {
+    "analytics": "34c1270c-ece2-45d0-85d8-a7b2d6860585"
+  }
 }
